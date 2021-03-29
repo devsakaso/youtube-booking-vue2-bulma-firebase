@@ -1,11 +1,13 @@
 .DS_Store
 node_modules
 /dist
+sss.html
 
 
 # local env files
 .env.local
 .env.*.local
+apiConfig.js
 
 # Log files
 npm-debug.log*
